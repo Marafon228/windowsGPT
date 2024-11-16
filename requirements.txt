@@ -1,0 +1,3 @@
+pywinauto
+g4f
+SpeechRecognition
